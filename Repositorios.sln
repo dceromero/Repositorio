@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccesoDatosTSQL", "AccesoDatosTSQL\AccesoDatosTSQL.csproj", "{F726946B-EC18-4639-AF71-C6BD9BF1E96C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccesoDatosEntity", "AccesoDatosEntity\AccesoDatosEntity.csproj", "{F2980341-C40D-49A7-869E-25CD0691D2CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F726946B-EC18-4639-AF71-C6BD9BF1E96C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F726946B-EC18-4639-AF71-C6BD9BF1E96C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F726946B-EC18-4639-AF71-C6BD9BF1E96C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F726946B-EC18-4639-AF71-C6BD9BF1E96C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2980341-C40D-49A7-869E-25CD0691D2CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2980341-C40D-49A7-869E-25CD0691D2CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2980341-C40D-49A7-869E-25CD0691D2CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2980341-C40D-49A7-869E-25CD0691D2CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DBF9158-5DAE-4074-AD54-D832154550C3}
+	EndGlobalSection
+EndGlobal
